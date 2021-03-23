@@ -7,8 +7,8 @@ code and comments about Datacamp data Science career path, where I learned about
 exploration, data cleaning and libraries. If you are a Data Scientist I think that maybe it would be userful in some aspect.
 ![image](https://user-images.githubusercontent.com/53918848/112210758-b32df200-8be0-11eb-81f4-1643680e68a9.png)
 
-You can check the project in github with a click on title or here https://github.com/AngelloDavincii/Data_Science_trackcourse_Summary/blob/main/DataScienceTrackDatacamp.ipynb
-Or if you are familiar with google colab you can check it here https://drive.google.com/file/d/1fs8mhommGAiUcTgsZoEqHcMspPM9is3m/view?usp=sharing 
+You can check the project in github with a click on title or here (https://github.com/AngelloDavincii/Data_Science_trackcourse_Summary/blob/main/DataScienceTrackDatacamp.ipynb)
+Or if you are familiar with google colab you can check it here (https://drive.google.com/file/d/1fs8mhommGAiUcTgsZoEqHcMspPM9is3m/view?usp=sharing)
 
 # Project 5: Django app for residentials
 Created a web app in django for maintenance of multiple services from a residential.
