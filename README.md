@@ -1,7 +1,7 @@
 # Angel_Cuellar_Portafolio
 Thanks for watching my portafolio where you can see some of my capabilities as a Data Scientist and Django Developer. 
 
-# Project 1: Summary Datacamp Course and Concepts(https://github.com/AngelloDavincii/Data_Science_trackcourse_Summary/blob/main/DataScienceTrackDatacamp.ipynb)
+# [Project 1: Summary Datacamp Course and Concepts](https://github.com/AngelloDavincii/Data_Science_trackcourse_Summary/blob/main/DataScienceTrackDatacamp.ipynb)
 Maybe this is the most personal project that I have, where in some jupyter notebooks and docs I put the most relevant
 code and comments about Datacamp data Science career path, where I learned about multiple themes like modeling, data
 exploration, data cleaning and libraries. If you are a Data Scientist I think that maybe it would be userful in some aspect.
