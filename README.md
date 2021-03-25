@@ -1,15 +1,15 @@
 # Angel_Cuellar_Portafolio
 Thanks for watching my portafolio where you can see some of my capabilities as a Data Scientist and Django Developer. 
 
-# [Project 1: Summary Datacamp Course and Concepts](https://github.com/AngelloDavincii/Data_Science_Cheatsheets/blob/main/CheatSheetDataScience.ipynb)
+# [Project 1: Cheat sheet for data science](https://github.com/AngelloDavincii/Data_Science_Cheatsheets/blob/main/CheatSheetDataScience.ipynb)
 Maybe this is the most personal and large project that I have, where in some jupyter notebooks and docs I put the most relevant
 code and comments about Datacamp data Science career path, where I learned about multiple themes like modeling, data
-exploration, data cleaning and libraries. If you are a Data Scientist I think that maybe it would be userful in some aspect.
+exploration, data cleaning and libraries. Also I added some research about themes that I found interesting. If you are a Data Scientist I think that this cheat sheet can be useful.
 ![image](https://user-images.githubusercontent.com/53918848/112210758-b32df200-8be0-11eb-81f4-1643680e68a9.png)
 ![image](https://user-images.githubusercontent.com/53918848/112506809-b85f7e00-8d53-11eb-9387-c93e4a9d6809.png)
 
 You can check the project in github with a click on title or [here](https://github.com/AngelloDavincii/Data_Science_trackcourse_Summary/blob/main/DataScienceTrackDatacamp.ipynb)
-Or if you are familiazed with google colab you can check it [here](https://drive.google.com/file/d/1fs8mhommGAiUcTgsZoEqHcMspPM9is3m/view?usp=sharing)
+or if you are familiazed with google colab you can check it [here](https://drive.google.com/file/d/1fs8mhommGAiUcTgsZoEqHcMspPM9is3m/view?usp=sharing)
 
 # Project 5: Django app for residentials
 Created a web app in django for maintenance of multiple services from a residential.
